@@ -4,7 +4,7 @@ function Card(){
         <>
         <h1 className="text-red-300">Product Card</h1>
         <div>
-            <img src="https://i.pinimg.com/564x/90/e5/0f/90e50f08fa452356d5d98fe37dc10431.jpg" alt="" />
+            <img src="https://cdn.thewirecutter.com/wp-content/media/2021/05/mensjeans-2048px-3784.jpg?auto=webp&quality=75&width=1024" alt="" />
             <h1>Hot Denim</h1>
             <p>The best jeans trauser in the market.
                 Get it today at a good price while stocks last.
